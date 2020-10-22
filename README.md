@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eric183)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-
+<!--
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
@@ -34,5 +34,7 @@ Here are some ideas to get you started:
     <a href="https://dev.to/imdhruv99" alt="Dev"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/dev.png"></a>
     <a href="https://medium.com/@dpdhruvprajapati" alt="Medium"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/medium.png"></a>
 </p>
+-->
+
   
 </p>
