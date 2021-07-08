@@ -1,4 +1,4 @@
-### Hi there 👋, Here is KuangKuang
+### Hi there 👋, I am KuangKuang
 
 
 <!-- **eric183/eric183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 3D game and CG
 - 📫 How to reach me: [My Site](https://net.happylandle.club)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+<!-- - ⚡ Fun fact: ... -->
 
 ### 📊 GitHub Stats:
 ![Kuangkuang's github stats](https://github-readme-stats.vercel.app/api?username=eric183&theme=radical&show_icons=true&count_private=true)
