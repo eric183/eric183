@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats:
 ![Kuangkuang's github stats](https://github-readme-stats.vercel.app/api?username=eric183&theme=radical&show_icons=true&count_private=true)
 
-![Kuangkuang Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eric183&theme=solarized_dark)
-![Kuangkuang Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eric183&theme=solarized_dark)
+![Kuangkuang Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eric183&theme=monokai)
+![Kuangkuang Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eric183&theme=monokai)
 <!-- ![Kuangkuang Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eric183&theme=solarized_dark) -->
 
 
