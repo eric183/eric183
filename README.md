@@ -7,6 +7,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ['BI', 'OMS', 'CRM', 'CMS'] System  and independent game
 - 🌱 I’m currently learning 3D game and CG Art
+- 🦸🏽 Good at: 
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
 - 💬 Ask me about 3D game and CG
 - 📫 How to reach me: [My Site](https://net.happylandle.club)
 - 😄 Pronouns: He/Him
