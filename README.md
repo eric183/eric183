@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ['BI', 'OMS', 'CRM', 'CMS'] System  and independent game
-- 🌱 I’m currently learning 3D game and CG Art  [Behance](https://www.behance.net/kuangeric) [Artstation](https://www.artstation.com/kk297466058)
+- 🌱 I’m currently learning 3D game and CG Art  [[Behance\,](https://www.behance.net/kuangeric) [Artstation\]](https://www.artstation.com/kk297466058)
 - 🦸🏽 Good at: 
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
