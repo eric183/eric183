@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 - 💬 Ask me about game and CG
-- 📫 How to reach me: [My Site](https://net.happylandle.club)
+- 📫 How to reach me: [My Site](https://net.doomsdaydetectiveagency.com)
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
