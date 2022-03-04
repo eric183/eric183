@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about game and CG
 - 📫 How to reach me: [My Site](https://net.doomsdaydetectiveagency.com)
 - 😄 Pronouns: He/Him
+- Ukraine ☮ 🙏
 <!-- - ⚡ Fun fact: ... -->
 
 ### 📊 GitHub Stats:
