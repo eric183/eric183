@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Co-programming environment and Independent Game  ~~['BI', 'OMS', 'CRM', 'CMS']~~
+- 🔭 I’m currently working on Co-programming Environment and Independent Game  ~~['BI', 'OMS', 'CRM', 'CMS']~~
 - 🌱 I’m currently learning 3D Game and CG Art  [[Behance\,](https://www.behance.net/kuangeric) [Artstation\]](https://www.artstation.com/kk297466058)
 - 🦸🏽 Good at: 
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
