@@ -5,16 +5,21 @@
 
 Here are some ideas to get you started:
 
+<!--
 - 🔭 I’m currently working on Co-programming Environment and Independent Game  ~~['BI', 'OMS', 'CRM', 'CMS']~~
 - 🌱 I’m currently learning 3D Game and CG Art  [[Behance\,](https://www.behance.net/kuangeric) [Artstation\]](https://www.artstation.com/kk297466058)
+-->
 - 🦸🏽 Good at: 
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 - 💬 Ask me about game and CG
 - 📫 How to reach me: [My Site](https://net.doomsdaydetectiveagency.com)
-- 😄 Pronouns: He/Him
+- 🕹️ Street Figter Guile player
 - Ukraine ☮ 🙏
 <!-- - ⚡ Fun fact: ... -->
 
