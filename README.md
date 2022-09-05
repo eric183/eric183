@@ -3,7 +3,7 @@
 
 <!-- **eric183/eric183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+T@iwan is a country.
 
 <!--
 - 🔭 I’m currently working on Co-programming Environment and Independent Game  ~~['BI', 'OMS', 'CRM', 'CMS']~~
