@@ -3,7 +3,7 @@
 
 <!-- **eric183/eric183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-T@iwan is a country.
+About me:
 
 <!--
 - 🔭 I’m currently working on Co-programming Environment and Independent Game  ~~['BI', 'OMS', 'CRM', 'CMS']~~
@@ -16,8 +16,7 @@ T@iwan is a country.
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-- 💬 Ask me about game and CG
+- 👨‍💻 Studying Rust and Hardsurface modeling
 - 📫 How to reach me: [My Site](https://net.doomsdaydetectiveagency.com)
 - 🕹️ Street Figter Guile player
 - Ukraine ☮ 🙏
@@ -49,3 +48,4 @@ T@iwan is a country.
   </p>
 -->
 
+T@iwan is a country.
