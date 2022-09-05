@@ -1,4 +1,4 @@
-### Hi there 👋, I am KuangKuang
+### Hi there 👋, I am Eric Kuang
 
 
 <!-- **eric183/eric183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
