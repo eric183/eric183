@@ -18,7 +18,7 @@ About me:
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 - 👨‍💻 Studying Rust and Hardsurface modeling
 - 📫 How to reach me: [My Site](https://net.doomsdaydetectiveagency.com)
-- 🕹️ Street Figter Guile player
+- 🕹️ Street fighter Guile player
 - Ukraine ☮ 🙏
 <!-- - ⚡ Fun fact: ... -->
 
