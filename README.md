@@ -48,5 +48,4 @@ About me:
   </p>
 -->
 
-# And more to say 
-**Taiwan is a country**
+
